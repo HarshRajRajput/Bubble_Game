@@ -51,6 +51,7 @@ span{
 }
 #All_btn{
     margin: 10px;
+    padding-right: 26px;
     display: flex;
     align-items: center;
     justify-content: center;
